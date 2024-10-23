@@ -1,0 +1,5 @@
+<ClientConfig>
+	<GameClient name="Money Bank" clientCode="mobile"  technology="HTML" height="600" width="960" meterheight="0" meterwidth="10" gameFolder="MoneyBank" enableFreeSpin="Y" clientversion="1.0.0" gameId="300-2083-0" />
+	<GameClient name="Money Bank" clientCode="tablet"  technology="HTML" height="600" width="960" meterheight="0" meterwidth="10" gameFolder="MoneyBank" enableFreeSpin="Y" clientversion="1.0.0" gameId="300-2083-0" />
+	<GameClient name="Money Bank" clientCode="desktop" technology="HTML" height="600" width="960" meterheight="0" meterwidth="10" gameFolder="MoneyBank" enableFreeSpin="Y" clientversion="1.0.0" gameId="300-2083-0" />
+</ClientConfig>

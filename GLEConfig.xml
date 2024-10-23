@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<family code="2083" desc="Lottery Game" organizationName="Interactive" studio="crdc">
+
+	<game name="Money Bank WLA" version="1.0.7" gameengineversion="2" gamelogicversion="1.0" 
+        number="0"
+		gamegroup="eGames" 
+		gametype="L" 
+        jackpotid=""
+        loadprevstate="N"
+        numberGenerator="RNG"
+		productId="1" 
+        spots=""
+		languages="en,en_US,zh_CN" 
+		 betMultipliers="50,100,200,300,500,1000,2000"  
+        skbPlatformVersion="1.4.0"
+        merchandisePrize="N"
+        stateful="N">
+
+		<!-- CRDC -->
+		<!-- <paymodel name="MoneyBank : 300-2083-001" 
+			modelid="300-2083-001" 
+			cointhreshold="0" 
+			confidentlevelpct="95" 
+			fixedminmax="Y" 
+			hibethold="5.06" 
+			lobethold="5.06" 
+			hibetsd="3.641" 
+			lobetsd="3.641" 
+			maxcoins="2000" 
+			mincoins="0" 
+			maxmainbetwin="0" 
+			maxsidebetwin="0" 
+			revealId="2083" 
+			revealVersionId="2083" />
+		<paymodelConfig clienttype="HTML" configcode="IXML" modelid="300-2083-001" />
+		<paymodelConfig clienttype="HTML" configcode="PHLP" modelid="300-2083-001" /> -->
+
+		<!-- RGS COM -->
+		<!-- <paymodel name="MoneyBank : 300-2083-002" 
+			modelid="300-2083-002" 
+			cointhreshold="0" 
+			confidentlevelpct="95" 
+			fixedminmax="Y" 
+			hibethold="5.06" 
+			lobethold="5.06" 
+			hibetsd="3.641" 
+			lobetsd="3.641" 
+			maxcoins="2000" 
+			mincoins="0" 
+			maxmainbetwin="0" 
+			maxsidebetwin="0" 
+			revealId="2083" 
+			revealVersionId="2083" />
+		<paymodelConfig clienttype="HTML" configcode="IXML" modelid="300-2083-002" />
+		<paymodelConfig clienttype="HTML" configcode="PHLP" modelid="300-2083-002" /> -->
+
+		<!-- GA -->
+		<paymodel name="MoneyBank : 300-2083-003" 
+			modelid="300-2083-003" 
+			cointhreshold="0" 
+			confidentlevelpct="95" 
+			fixedminmax="Y" 
+			hibethold="22.00" 
+			lobethold="22.00" 
+			hibetsd="3.641" 
+			lobetsd="3.641" 
+			maxcoins="2000" 
+			mincoins="0" 
+			maxmainbetwin="0" 
+			maxsidebetwin="0" 
+			revealId="4134" 
+			revealVersionId="4134" />
+		<paymodelConfig clienttype="HTML" configcode="IXML" modelid="300-2083-003" />
+		<paymodelConfig clienttype="HTML" configcode="PHLP" modelid="300-2083-003" />
+
+		<!-- KY -->
+		<paymodel name="MoneyBank : 300-2083-004" 
+			modelid="300-2083-004" 
+			cointhreshold="0" 
+			confidentlevelpct="95" 
+			fixedminmax="Y" 
+			hibethold="5.06" 
+			lobethold="5.06" 
+			hibetsd="3.641" 
+			lobetsd="3.641" 
+			maxcoins="2000" 
+			mincoins="0" 
+			maxmainbetwin="0" 
+			maxsidebetwin="0" 
+			revealId="4134" 
+			revealVersionId="4134" />
+		<paymodelConfig clienttype="HTML" configcode="IXML" modelid="300-2083-004" />
+		<paymodelConfig clienttype="HTML" configcode="PHLP" modelid="300-2083-004" />
+
+		<denom currencycode="USD" amount="0.01" />
+		<denom currencycode="CNY" amount="0.01" />
+
+    </game>
+
+    </family>
